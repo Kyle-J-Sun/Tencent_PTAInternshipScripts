@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+""" Try lightgbm for Binary Classification """
+
+__author__ = 'Jinkai Sun (jingkai.sun20@imperial.ac.uk)'
+__version__ = '0.0.1'
+
 '''----------------------------------------------------LightGBM------------------------------------------------------------
 LightGBM Binary Classification, Multi-Class Classification, Regression using Python
 

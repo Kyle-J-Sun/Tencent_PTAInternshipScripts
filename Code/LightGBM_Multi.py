@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+""" Try lightgbm for Multi-Class Classification """
+
+__author__ = 'Jinkai Sun (jingkai.sun20@imperial.ac.uk)'
+__version__ = '0.0.1'
+
 '''---------------------------------------------Multi-Class Classification----------------------------------------------
 Parameters:
 For best fit:
